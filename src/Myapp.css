@@ -1,0 +1,17 @@
+.myInfo{
+    width: 333px;
+    height: 444px;
+    background-color: rgb(255, 255, 255);
+    /*center arrangement*/
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+.photo{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%);
+}
