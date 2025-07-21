@@ -22,6 +22,10 @@ class Myapp extends Component {
                         <td><label>Email ID</label></td>
                         <td><label>akshaydamarla1@gmail.com</label></td>
                     </tr>
+                    <tr>
+                        <td><label>Course</label></td>
+                        <td><label>Front End Development Frameworks</label></td>
+                    </tr>
                 </table>
                 
             </div>
